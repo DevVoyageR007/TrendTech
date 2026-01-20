@@ -20,7 +20,7 @@ It includes OTP-based authentication, JWT secured APIs, cart & wishlist system, 
 ![Dashboard](screenshots/dashboard.png)
 
 ### Product Management
-![Products List](screenshots/products.png)
+![Products List](screenshots/product.png)
 
 ### Product-Details Management
 ![Product-Details](screenshots/product-details.png)
