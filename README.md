@@ -16,8 +16,20 @@ It includes OTP-based authentication, JWT secured APIs, cart & wishlist system, 
 ### Admin Dashboard
 ![Admin Dashboard](screenshots/admin-dashboard.png)
 
+### TrendTech Dashboard
+![Dashboard](screenshots/dashboard.png)
+
 ### Product Management
-![Products List](screenshots/products-list.png)
+![Products List](screenshots/products.png)
+
+### Product-Details Management
+![Product-Details](screenshots/product-details.png)
+
+### Cart Management
+![Cart Management](screenshots/cart.png)
+
+### Wishlist Management
+![Wishlist Management](screenshots/wishlist.png)
 
 ### Orders / Invoice Management
 ![Invoices](screenshots/invoices.png)
